@@ -1,0 +1,19 @@
+1. conda create -n number python=3.9 -y
+2. conda activate number
+3. pip install -r requirements.txt
+4. if there is any issue with installing libraries, then
+    seperately download all. First open cmd as administrator and for example run "pip install pandas"
+    and then in the terminal of vscode run the same command "pip install pandas".
+5. create folder plates and a csv file license_plate_number.csv
+6. in thwe terminal run --> python image.python
+7. after running the above code you will get images in plates folder and 
+8. then run --> python extrc.python
+9. check the csv file.
+
+
+
+
+
+
+
+
